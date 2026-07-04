@@ -1,2 +1,0 @@
-# konpeito
-konpeitō [monkeytype theme]
