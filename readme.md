@@ -37,7 +37,7 @@ Additonally, don't hesitate to edit the theme to your liking, or use it as the f
   error = #6fecbc</br>
   extra error = #75f6ff</br>
 
-**when colorful mode is enabled:** </br>
+**When Colorful Mode is Enabled:** </br>
   error = #6fecbc</br>
   extra error = #75f6ff</br>
 
