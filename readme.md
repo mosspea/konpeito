@@ -49,5 +49,5 @@ Additonally, don't hesitate to edit the theme to your liking, or use it as the f
 
 ### Method C = export/import .json:
 1.) export your monkeytype settings</br>
-2.) replace the necessary parts with [my custom data](blob/main/konpeit%C5%8D_Method_C.json) (you don't have to replace the customBackground data if you're using your own image, or no background image)</br>
+2.) replace the necessary parts with [my custom data](konpeit%C5%8D_Method_C.json) (you don't have to replace the customBackground data if you're using your own image, or no background image)</br>
 3.) lastly, save and import your revised .json file</br>
