@@ -8,12 +8,6 @@ Feel free to reach out if you have any questions or problems with implementing k
 
 Additonally, don't hesitate to edit the theme to your liking, or use it as the foundation for another custom theme.
 
-## I plan to include the following resources:
-  • color codes for general usage and Method B</br>
-  • text files with essential and optional data for Method C</br>
-  • background images</br>
-  • credit for all custom background images and featured fonts</br>
-
 ## Thank you! / Recommended resources:
   • [Ari-W9500 Font](https://www.1001freefonts.com/ari-w9500.font)</br>
   • image_01 was created with [better-gradient.com](https://better-gradient.com/editor)</br>
