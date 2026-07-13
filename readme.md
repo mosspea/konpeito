@@ -41,6 +41,12 @@ Additonally, don't hesitate to edit the theme to your liking, or use it as the f
   error = #6fecbc</br>
   extra error = #75f6ff</br>
 
+#### Background Filter Values:
+  blur = 1.9</br>
+  brightness = 1.1</br>
+  saturate = 1.4</br>
+  opacity = 0.8</br>
+
 ### Method C = export/import .json:
 1.) export your monkeytype settings</br>
 2.) replace the necessary parts with [my custom data](blob/main/konpeit%C5%8D_Method_C.json) (you don't have to replace the customBackground data if you're using your own image, or no background image)</br>
