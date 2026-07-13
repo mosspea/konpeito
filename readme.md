@@ -1,5 +1,7 @@
 # _konpeitō_ • a custom theme for monkeytype
 
+![theme_preview_00.png](theme_preview_00.png) ![theme_preview_01.png](theme_preview_01.png)
+
 I decided to share my multicolored theme inspired by konpeitō, the star-shaped sugar candy traditionally enjoyed in Japan.
 
 Feel free to reach out if you have any questions or problems with implementing konpeitō.
