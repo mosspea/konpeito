@@ -4,13 +4,12 @@
 
 I decided to share my multicolored theme inspired by konpeitō, the star-shaped sugar candy traditionally enjoyed in Japan.
 
-Feel free to reach out if you have any questions or problems with implementing konpeitō.
-
-Additonally, don't hesitate to edit the theme to your liking, or use it as the foundation for another custom theme.
+Feel free to reach out if you have any questions, or if you have trouble successfully implementing konpeitō.</br>
+Additonally, don't hesitate to edit this theme to your liking. You can use it as the foundation for another custom theme.
 
 ## Thank you! / Recommended resources:
   • [Ari-W9500 Font](https://www.1001freefonts.com/ari-w9500.font)</br>
-  • image_01 was created with [better-gradient.com](https://better-gradient.com/editor)</br>
+  • [image_01](image_01.png) was created with [better-gradient.com](https://better-gradient.com/editor)</br>
 
 ## How to install:
 
