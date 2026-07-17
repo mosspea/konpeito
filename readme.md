@@ -4,7 +4,7 @@
 
 I decided to share my multicolored theme inspired by konpeitō, the star-shaped sugar candy traditionally enjoyed in Japan.
 
-Feel free to reach out if you have any questions, or if you have trouble successfully implementing konpeitō.</br>
+Feel free to reach out if you have any questions, or if you're unable to implement konpeitō successfully.</br>
 Additonally, don't hesitate to edit this theme to your liking. You can use it as the foundation for another custom theme.
 
 ## Thank you! / Recommended resources:
